@@ -1,4 +1,4 @@
-# med-grid-privacy-policy
+# Med Grid privacy policy
 Privacy Policy for Med Grid
 
 Med Grid does not collect any info at all.
